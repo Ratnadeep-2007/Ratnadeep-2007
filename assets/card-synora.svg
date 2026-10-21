@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 238" width="580" height="238" role="img" aria-label="SYNORA project banner"><title>SYNORA</title>
+<defs><linearGradient id="shade" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#000000"/><stop offset=".58" stop-color="#080C1B"/><stop offset="1" stop-color="#140F25"/></linearGradient><linearGradient id="bar"><stop stop-color="#00E5FF"/><stop offset="1" stop-color="#7A5CFF" stop-opacity=".2"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="3" result="a"/><feMerge><feMergeNode in="a"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<style>.mono{font-family:Consolas,Menlo,monospace}.sans{font-family:"Arial Black","Segoe UI",sans-serif;font-weight:800}.pulse{animation:throb 3.2s ease-in-out infinite;filter:url(#glow)}.wave{stroke-dasharray:8 9;animation:move 2s linear infinite}.orbit{transform-origin:477px 119px;animation:spin 26s linear infinite}@keyframes throb{50%{opacity:.35}}@keyframes move{to{stroke-dashoffset:-100}}@keyframes spin{to{transform:rotate(360deg)}}@media(prefers-reduced-motion:reduce){.pulse,.wave,.orbit{animation:none}}</style>
+<rect x="1" y="1" width="578" height="236" rx="15" fill="url(#shade)" stroke="#00E5FF" stroke-opacity=".56" stroke-width="1.5"/>
+<path d="M25 28H555" stroke="#2A344F" stroke-width="1"/><circle cx="27" cy="28" r="3.5" fill="#00E5FF"/>
+<text x="39" y="51" class="mono" font-size="12" fill="#00E5FF" letter-spacing="2.2">01 / FEATURED SYSTEM</text>
+<text x="36" y="108" class="sans" font-size="40" fill="#F6F9FF" letter-spacing="1.4" textLength="295" lengthAdjust="spacingAndGlyphs">SYNORA</text>
+<rect x="38" y="125" width="115" height="3" fill="url(#bar)" rx="2"/>
+<text x="37" y="158" class="mono" font-size="11" fill="#00E5FF" letter-spacing=".45">AI AGENTS  /  PROJECT INTELLIGENCE</text>
+<text x="37" y="189" class="mono" font-size="12" fill="#C9D4FF">Multi-channel memory + living architecture</text>
+<text x="39" y="219" class="mono" font-size="10.5" fill="#8093B5">EXPLORE REPOSITORY  →</text>
+<circle cx="480" cy="118" r="109" fill="none" stroke="#00E5FF" stroke-opacity=".09" stroke-width="22"/>
+<path d="M419 104 L486 64 L553 105 L517 173 L445 166 Z M419 104 L517 173 M486 64 L445 166 M553 105 L445 166" stroke="#00E5FF" opacity=".53" stroke-width="1.3" fill="none"/><circle cx="419" cy="104" r="5" fill="#00E5FF" class="pulse" style="animation-delay:-0s"/><circle cx="486" cy="64" r="8" fill="#00E5FF" class="pulse" style="animation-delay:-0.6s"/><circle cx="553" cy="105" r="5" fill="#00E5FF" class="pulse" style="animation-delay:-1.2s"/><circle cx="517" cy="173" r="5" fill="#00E5FF" class="pulse" style="animation-delay:-1.7999999999999998s"/><circle cx="445" cy="166" r="5" fill="#00E5FF" class="pulse" style="animation-delay:-2.4s"/>
+</svg>
