@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 238" width="580" height="238" role="img" aria-label="URBAN SOUND CNN project banner"><title>URBAN SOUND CNN</title>
+<defs><linearGradient id="shade" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#000000"/><stop offset=".58" stop-color="#080C1B"/><stop offset="1" stop-color="#140F25"/></linearGradient><linearGradient id="bar"><stop stop-color="#C9D4FF"/><stop offset="1" stop-color="#7A5CFF" stop-opacity=".2"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="3" result="a"/><feMerge><feMergeNode in="a"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<style>.mono{font-family:Consolas,Menlo,monospace}.sans{font-family:"Arial Black","Segoe UI",sans-serif;font-weight:800}.pulse{animation:throb 3.2s ease-in-out infinite;filter:url(#glow)}.wave{stroke-dasharray:8 9;animation:move 2s linear infinite}.orbit{transform-origin:477px 119px;animation:spin 26s linear infinite}@keyframes throb{50%{opacity:.35}}@keyframes move{to{stroke-dashoffset:-100}}@keyframes spin{to{transform:rotate(360deg)}}@media(prefers-reduced-motion:reduce){.pulse,.wave,.orbit{animation:none}}</style>
+<rect x="1" y="1" width="578" height="236" rx="15" fill="url(#shade)" stroke="#C9D4FF" stroke-opacity=".56" stroke-width="1.5"/>
+<path d="M25 28H555" stroke="#2A344F" stroke-width="1"/><circle cx="27" cy="28" r="3.5" fill="#C9D4FF"/>
+<text x="39" y="51" class="mono" font-size="12" fill="#C9D4FF" letter-spacing="2.2">04 / FEATURED SYSTEM</text>
+<text x="36" y="108" class="sans" font-size="31" fill="#F6F9FF" letter-spacing="1.4" textLength="335" lengthAdjust="spacingAndGlyphs">URBAN SOUND CNN</text>
+<rect x="38" y="125" width="115" height="3" fill="url(#bar)" rx="2"/>
+<text x="37" y="158" class="mono" font-size="11" fill="#C9D4FF" letter-spacing=".45">DEEP LEARNING  /  AUDIO CLASSIFICATION</text>
+<text x="37" y="189" class="mono" font-size="12" fill="#C9D4FF">Siren recognition through spectrogram CNNs</text>
+<text x="39" y="219" class="mono" font-size="10.5" fill="#8093B5">EXPLORE REPOSITORY  →</text>
+<circle cx="480" cy="118" r="109" fill="none" stroke="#C9D4FF" stroke-opacity=".09" stroke-width="22"/>
+<circle cx="477" cy="119" r="40" fill="none" stroke="#C9D4FF" stroke-width="2"/><path d="M455 128L463 128 469 100 480 145 489 109 496 128 504 128" stroke="#C9D4FF" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round" class="wave"/><circle cx="477" cy="119" r="68" fill="none" stroke="#C9D4FF" stroke-opacity=".35" stroke-dasharray="5 12" class="orbit"/><circle cx="477" cy="119" r="85" fill="none" stroke="#C9D4FF" stroke-opacity=".2" stroke-dasharray="2 14" class="orbit"/>
+</svg>
