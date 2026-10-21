@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="144" viewBox="0 0 1200 144" role="img" aria-label="Animated AI engineering workflow from curiosity to production">
+<title>From ideas to intelligent products</title>
+<defs>
+<linearGradient id="stroke"><stop stop-color="#7A5CFF"/><stop offset=".5" stop-color="#00E5FF"/><stop offset="1" stop-color="#9FFFE0"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="2.4" result="g"/><feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+.mono{font-family:Consolas,"Courier New",monospace;font-weight:600;letter-spacing:1px}
+.travel{stroke-dasharray:6 22;animation:flow 3.6s linear infinite}
+.point{animation:pulse 3s ease-in-out infinite}
+@keyframes flow{to{stroke-dashoffset:-112}}
+@keyframes pulse{50%{opacity:.4}}
+@media(prefers-reduced-motion:reduce){.travel,.point{animation:none}}
+</style>
+<rect width="1200" height="144" fill="#000"/>
+<rect x="8" y="10" width="1184" height="125" rx="13" stroke="#26334D" fill="#050710"/>
+<text x="35" y="37" font-size="12" fill="#9FFFE0" class="mono">SYSTEM.PIPELINE / FROM CONCEPT TO PRODUCT</text>
+<path d="M110 80H1092" stroke="#2E395A" stroke-width="3"/>
+<path d="M110 80H1092" stroke="url(#stroke)" stroke-width="3" class="travel" filter="url(#glow)"/>
+<circle cx="118" cy="80" r="13" fill="#060A15" stroke="#00E5FF" stroke-width="2" class="point" style="animation-delay:-0s"/><circle cx="118" cy="80" r="4.2" fill="#00E5FF"/><text x="118" y="114" text-anchor="middle" fill="#C9D4FF" font-size="14" class="mono">RESEARCH</text><circle cx="355" cy="80" r="13" fill="#060A15" stroke="#7A5CFF" stroke-width="2" class="point" style="animation-delay:-0.45s"/><circle cx="355" cy="80" r="4.2" fill="#00E5FF"/><text x="355" y="114" text-anchor="middle" fill="#C9D4FF" font-size="14" class="mono">PROTOTYPE</text><circle cx="592" cy="80" r="13" fill="#060A15" stroke="#00E5FF" stroke-width="2" class="point" style="animation-delay:-0.9s"/><circle cx="592" cy="80" r="4.2" fill="#00E5FF"/><text x="592" y="114" text-anchor="middle" fill="#C9D4FF" font-size="14" class="mono">BUILD</text><circle cx="829" cy="80" r="13" fill="#060A15" stroke="#7A5CFF" stroke-width="2" class="point" style="animation-delay:-1.35s"/><circle cx="829" cy="80" r="4.2" fill="#00E5FF"/><text x="829" y="114" text-anchor="middle" fill="#C9D4FF" font-size="14" class="mono">EVALUATE</text><circle cx="1066" cy="80" r="13" fill="#060A15" stroke="#00E5FF" stroke-width="2" class="point" style="animation-delay:-1.8s"/><circle cx="1066" cy="80" r="4.2" fill="#9FFFE0"/><text x="1066" y="114" text-anchor="middle" fill="#C9D4FF" font-size="14" class="mono">SHIP</text>
+</svg>
