@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 238" width="580" height="238" role="img" aria-label="SPIDER SMART project banner"><title>SPIDER SMART</title>
+<defs><linearGradient id="shade" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#000000"/><stop offset=".58" stop-color="#080C1B"/><stop offset="1" stop-color="#140F25"/></linearGradient><linearGradient id="bar"><stop stop-color="#9FFFE0"/><stop offset="1" stop-color="#7A5CFF" stop-opacity=".2"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="3" result="a"/><feMerge><feMergeNode in="a"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<style>.mono{font-family:Consolas,Menlo,monospace}.sans{font-family:"Arial Black","Segoe UI",sans-serif;font-weight:800}.pulse{animation:throb 3.2s ease-in-out infinite;filter:url(#glow)}.wave{stroke-dasharray:8 9;animation:move 2s linear infinite}.orbit{transform-origin:477px 119px;animation:spin 26s linear infinite}@keyframes throb{50%{opacity:.35}}@keyframes move{to{stroke-dashoffset:-100}}@keyframes spin{to{transform:rotate(360deg)}}@media(prefers-reduced-motion:reduce){.pulse,.wave,.orbit{animation:none}}</style>
+<rect x="1" y="1" width="578" height="236" rx="15" fill="url(#shade)" stroke="#9FFFE0" stroke-opacity=".56" stroke-width="1.5"/>
+<path d="M25 28H555" stroke="#2A344F" stroke-width="1"/><circle cx="27" cy="28" r="3.5" fill="#9FFFE0"/>
+<text x="39" y="51" class="mono" font-size="12" fill="#9FFFE0" letter-spacing="2.2">03 / FEATURED SYSTEM</text>
+<text x="36" y="108" class="sans" font-size="40" fill="#F6F9FF" letter-spacing="1.4" textLength="295" lengthAdjust="spacingAndGlyphs">SPIDER SMART</text>
+<rect x="38" y="125" width="115" height="3" fill="url(#bar)" rx="2"/>
+<text x="37" y="158" class="mono" font-size="11" fill="#9FFFE0" letter-spacing=".45">FULL-STACK  /  INVENTORY PLATFORM</text>
+<text x="37" y="189" class="mono" font-size="12" fill="#C9D4FF">Secure records, audit trails and workflows</text>
+<text x="39" y="219" class="mono" font-size="10.5" fill="#8093B5">EXPLORE REPOSITORY  →</text>
+<circle cx="480" cy="118" r="109" fill="none" stroke="#9FFFE0" stroke-opacity=".09" stroke-width="22"/>
+<path d="M477 52L545 90L477 130L407 90Z M407 90V153L477 190L545 153V90 M477 130V190 M477 52V130" fill="none" stroke="#9FFFE0" stroke-width="2.2" stroke-linejoin="round"/><path d="M419 116L477 151L534 116" fill="none" stroke="#9FFFE0" opacity=".44" stroke-width="1.5" stroke-dasharray="5 6" class="wave"/><circle cx="477" cy="130" r="5.5" fill="#9FFFE0" class="pulse"/>
+</svg>
